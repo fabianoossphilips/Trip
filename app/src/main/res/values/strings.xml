@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trip</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="route_login">login</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm your password</string>
+
+</resources>
